@@ -154,6 +154,10 @@ PrefabInstance:
       propertyPath: walkStopRate
       value: 0.05
       objectReference: {fileID: 0}
+    - target: {fileID: 3674994166948662176, guid: d45e0408b92fd104b9b93b3401ed5a3e, type: 3}
+      propertyPath: walkAcceleration
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 3995413913429317724, guid: d45e0408b92fd104b9b93b3401ed5a3e, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -15772,6 +15776,14 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1502958383484215697, guid: a4b3bfdd3c5d0734ea297a2b3530daf7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4298069625880625550, guid: a4b3bfdd3c5d0734ea297a2b3530daf7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5264846374969826446, guid: a4b3bfdd3c5d0734ea297a2b3530daf7, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -15873,6 +15885,10 @@ PrefabInstance:
     - target: {fileID: 3674994166948662176, guid: d45e0408b92fd104b9b93b3401ed5a3e, type: 3}
       propertyPath: walkStopRate
       value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3674994166948662176, guid: d45e0408b92fd104b9b93b3401ed5a3e, type: 3}
+      propertyPath: walkAcceleration
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3995413913429317724, guid: d45e0408b92fd104b9b93b3401ed5a3e, type: 3}
       propertyPath: m_RootOrder
