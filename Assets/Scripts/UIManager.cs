@@ -64,7 +64,6 @@ public class UIManager : MonoBehaviour
         #elif (UNITY_WEBGL)
             SceneManager.LoadScene("QuitScene");
         #endif
-            
         }
     }
 }
